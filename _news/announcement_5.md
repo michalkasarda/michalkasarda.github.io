@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-Started working as a research engineer on **SLAAP — Sloshing AI Approximator**, an ESA **FIRST!** activity led by **OHB System**, on neural surrogates of propellant sloshing for spacecraft AOCS design.
+Since September 2026, I also work as a research engineer on **SLAAP — Sloshing AI Approximator**, an ESA **FIRST!** activity under FLPP, led by **OHB System** with CTU Prague and OHB Hellas. On the CTU side, I work on data-driven sloshing surrogate models aimed at replacing CFD in Monte-Carlo validation campaigns for spacecraft AOCS design.
