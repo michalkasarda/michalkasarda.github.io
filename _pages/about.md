@@ -31,7 +31,7 @@ I am a PhD student in the [Vision for Robotics and Autonomous Systems (VRAS)](ht
 
 My research focuses on **deep learning for UAV command and control**, specifically on **wind estimation in close proximity to terrain** for UAV planning. I work within the **Kolibriq** project, a collaboration with **Lockheed Martin**. Concretely, I develop real-time neural approximations of CFD solvers for high-resolution wind field prediction and combine them with differentiable UAV dynamics for planning and optimization in predicted wind fields.
 
-Starting September 2026, I will also contribute as a research engineer to **SLAAP — Sloshing AI Approximator**, an ESA **FIRST!** activity under FLPP, led by **OHB System** with CTU Prague and OHB Hellas. On the CTU side, I work on data-driven sloshing surrogate models aimed at replacing CFD in Monte-Carlo validation campaigns for spacecraft AOCS design.
+Since September 2026, I also work as a research engineer on **SLAAP — Sloshing AI Approximator**, an ESA **FIRST!** activity under FLPP, led by **OHB System** with CTU Prague and OHB Hellas. On the CTU side, I work on data-driven sloshing surrogate models aimed at replacing CFD in Monte-Carlo validation campaigns for spacecraft AOCS design.
 
 Before starting my PhD I worked as an undergraduate researcher in the [Intelligent Mobile Robotics (IMR)](https://imr.ciirc.cvut.cz/) group at CIIRC, on visual teach-and-repeat navigation using deep-learned local features.
 

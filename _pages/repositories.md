@@ -7,19 +7,39 @@ nav: true
 nav_order: 4
 ---
 
-<div class="row row-cols-1 row-cols-md-2 g-3">
+<h4 class="mb-3">Highlighted</h4>
+
+<div class="row row-cols-1 row-cols-md-2 g-3 mb-5">
 
   <div class="col">
-    <div class="card h-100">
+    <div class="card h-100 border-primary">
       <div class="card-body">
         <h5 class="card-title">
           <i class="fa-brands fa-gitlab"></i>
-          <a href="https://gitlab.fel.cvut.cz/kasarmic/windoptimizer" target="_blank" rel="noopener">windoptimizer</a>
+          <a href="https://gitlab.fel.cvut.cz/kasarmic/windoptimizer" target="_blank" rel="noopener">windoptimizer (WindFuse)</a>
         </h5>
-        <p class="card-text">Optimization of UAV planning in predicted wind fields using a differentiable UAV model.</p>
+        <p class="card-text">Fusion of weather forecasts and sparse wind measurements into a dense near-surface wind field through a differentiable CFD surrogate. Code frozen for the WindFuse paper.</p>
       </div>
     </div>
   </div>
+
+  <div class="col">
+    <div class="card h-100 border-primary">
+      <div class="card-body">
+        <h5 class="card-title">
+          <i class="fa-brands fa-gitlab"></i>
+          <a href="https://gitlab.fel.cvut.cz/kasarmic/windplanner-template" target="_blank" rel="noopener">windplanner-template</a>
+        </h5>
+        <p class="card-text">Terrain-aware fixed-wing UAV planning: FuXi-CFD wind forecasts, forecast-ensemble uncertainty, a 6-DOF simulator and controller, and an energy/time RRT* planner.</p>
+      </div>
+    </div>
+  </div>
+
+</div>
+
+<h4 class="mb-3">Other</h4>
+
+<div class="row row-cols-1 row-cols-md-2 g-3">
 
   <div class="col">
     <div class="card h-100">
