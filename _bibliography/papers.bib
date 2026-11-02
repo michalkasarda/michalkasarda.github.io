@@ -10,6 +10,7 @@
   year        = {2026},
   month       = {October},
   journal     = {Submitted to Advances in Atmospheric Sciences},
+  pdf         = {kasarda2026_windfuse.pdf},
   note        = {Under review},
   abstract    = {Near-surface winds over complex terrain remain challenging to predict accurately because kilometre-scale numerical weather prediction (NWP) models smooth out terrain-induced flow features, including ridge acceleration, wake formation, and channelling. Downscaling methods recover finer-scale terrain effects but inherit background forecast errors, while observation-based interpolation is limited by sparse measurements. This paper introduces WindFuse, a framework that combines numerical forecasts with local observations to reconstruct wind fields over areas spanning a few kilometres. A neural-network surrogate of computational fluid dynamics (CFD) maps terrain and forecast inflow to a dense, time-averaged, three-dimensional wind field within seconds on an embedded GPU. Exploiting the surrogate's differentiability, WindFuse optimizes two inflow parameters, a wind-speed scaling factor and a wind-direction rotation, using gradient descent to minimize a three-dimensional variational (3D-Var)-type cost function balancing observational misfit against departures from the background forecast, weighted by ensemble spread. WindFuse is evaluated using synthetic CFD benchmarks, 79 days of observations from the 2017 Perdig\~{a}o field campaign, and two airborne datasets.}
 }
